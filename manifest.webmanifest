@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v4.1 PRO",
+  "name": "RowCoach Concept2 v4.2 FIX",
   "short_name": "RowCoach",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#06101f",
   "theme_color": "#06101f",
-  "description": "RowCoach Concept2 v4.1 PRO Dashboard mit Coach, Analyse, Kalender, Rekorden und CSV-Import.",
+  "description": "RowCoach v4.2 mit NaN-Fix, Datenreparatur, Coach, Analyse, Kalender und CSV Import.",
   "icons": []
 }
