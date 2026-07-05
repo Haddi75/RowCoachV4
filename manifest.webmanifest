@@ -1,1 +1,11 @@
-{"name":"RowCoach Concept2 v6.0 PRO FINAL","short_name":"RowCoach","start_url":"./index.html?v=6001","scope":"./","display":"standalone","background_color":"#06101f","theme_color":"#06101f","description":"Stabile RowCoach App mit Dashboard, Logbuch, Analyse, Kalender, Rekorden, Coach, Zonen, CSV Import und Backup.","icons":[]}
+{
+  "name": "RowCoach Concept2 v7.0 ELITE",
+  "short_name": "RowCoach",
+  "start_url": "./index.html?v=7001",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04111f",
+  "theme_color": "#04111f",
+  "description": "RowCoach Elite mit Coach, Saisonplanung, Belastungsrisiko, Prognosen, CSV Import und Backup.",
+  "icons": []
+}
