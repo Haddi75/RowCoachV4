@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v5.0 PRO",
+  "name": "RowCoach Concept2 v5.1 PRO",
   "short_name": "RowCoach",
-  "start_url": "./index.html?v=50",
+  "start_url": "./index.html?v=51",
   "scope": "./",
   "display": "standalone",
   "background_color": "#050b16",
   "theme_color": "#050b16",
-  "description": "RowCoach v5.0 Pro mit CTL/ATL/TSB, TRIMP, Zonen, Coach, Kalender, Rekorden und CSV-Import.",
+  "description": "RowCoach v5.1 Pro mit Training eintragen/löschen, Filterdiagrammen, CTL/ATL/TSB, TRIMP, Zonen, Coach und CSV-Import.",
   "icons": []
 }
