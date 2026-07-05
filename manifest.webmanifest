@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v4",
+  "name": "RowCoach Concept2 Final",
   "short_name": "RowCoach",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "description": "Concept2 RowCoach mit Coach, Plan, Analyse, Kalender und Rekorden.",
+  "description": "Finale Concept2 RowCoach PWA mit Coach, Plan, Analyse, Kalender und Rekorden.",
   "icons": []
 }
