@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v4.3 FINAL",
+  "name": "RowCoach Concept2 v5.0 PRO",
   "short_name": "RowCoach",
-  "start_url": "./index.html?v=43",
+  "start_url": "./index.html?v=50",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#06101f",
-  "theme_color": "#06101f",
-  "description": "RowCoach v4.3 Final mit NaN-Fix, Cache-Buster, Coach, Analyse, Kalender und CSV Import.",
+  "background_color": "#050b16",
+  "theme_color": "#050b16",
+  "description": "RowCoach v5.0 Pro mit CTL/ATL/TSB, TRIMP, Zonen, Coach, Kalender, Rekorden und CSV-Import.",
   "icons": []
 }
