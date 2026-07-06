@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v7.6 ELITE ANALYTICS",
+  "name": "RowCoach Concept2 v8 ELITE AI",
   "short_name": "RowCoach",
-  "start_url": "./index.html?v=7600",
+  "start_url": "./index.html?v=8000",
   "scope": "./",
   "display": "standalone",
   "background_color": "#04111f",
   "theme_color": "#04111f",
-  "description": "RowCoach v7.6 mit beschrifteten Diagrammachsen, Einheiten, Gitternetz und Interpretationen.",
+  "description": "RowCoach v8 ELITE AI mit adaptivem AI Coach, Form-Prognose, Trainingsentscheidung, Wochenplan, Analytics, CSV Import und Backup.",
   "icons": []
 }
