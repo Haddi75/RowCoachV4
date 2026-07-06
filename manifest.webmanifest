@@ -1,11 +1,11 @@
 {
-  "name": "RowCoach Concept2 v7 ELITE",
+  "name": "RowCoach Concept2 v7.5 ELITE ULTIMATE",
   "short_name": "RowCoach",
-  "start_url": "./index.html?v=7300",
+  "start_url": "./index.html?v=7500",
   "scope": "./",
   "display": "standalone",
   "background_color": "#04111f",
   "theme_color": "#04111f",
-  "description": "RowCoach v7 ELITE als 3-Dateien-Version mit Dashboard, Coach, Saisonplanung, CSV Import, Backup und Offline-PWA.",
+  "description": "RowCoach v7.5 mit interaktivem Wochenplan, Elite Coach, CSV Import, Backup und Offline-PWA.",
   "icons": []
 }
